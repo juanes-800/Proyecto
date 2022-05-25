@@ -197,7 +197,7 @@ nav ul li a{
   
   justify-content: center;
   
-  width: 70%;
+  width: 100%;
 
 }
 
@@ -400,10 +400,10 @@ nav ul li a img{
 
   align-items: center;
 
-  gap: 1,5rem;
+  gap: 1rem;
 
-  grid-template-areas: 
-  "calidad segurida"
+  grid-template-areas:
+  "calidad seguridad"
   "procesos regulacion";
   
 }
@@ -415,7 +415,7 @@ nav ul li a img{
 
 }
 
-.sesguridad{
+.seguridad{
   
   grid-area: seguridad;
 
@@ -448,7 +448,7 @@ nav ul li a img{
 
   margin:0.5rem;
 
-  width: 80%;
+  width: 100%;
 
   border-radius: 1.5rem;
 
@@ -474,7 +474,9 @@ nav ul li a img{
 }
 
 
-/* corregir */
+
+
+/* modificacion del  mmmdmdmd */
 
 
 
