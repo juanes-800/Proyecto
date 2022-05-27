@@ -473,7 +473,25 @@ nav ul li a img{
   
 }
 
+/* se realiza clase para hacer   transiciones al logo y h1 de las paginas */
 
+.transicion{
+
+  transition: all 1s;
+}
+
+.transicion:hover{
+
+  transform: scale(2);
+}
+
+/*  se realiza transiciones para las redes sociales  */
+nav ul li a img:hover{
+
+  transform: translateX(15px);
+
+  transition: all  0,1s linear ease ease-out;
+}
 
 
 /* modificacion del  mmmdmdmd */
