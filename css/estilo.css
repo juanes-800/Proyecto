@@ -461,7 +461,7 @@ nav ul li a img{
 
 }
 
-/* se modifica tamaño de imagenes del grid  cintacto*/
+/* se modifica tamaño de imagenes del grid  contacto*/
 .cursoImagenes{
 
   width:100% ;
@@ -508,6 +508,7 @@ nav ul li a img:hover{
   position: absolute;
 
 }
+
 .log2:hover{
   
   transform: translate(10px, 10px);
@@ -515,6 +516,66 @@ nav ul li a img:hover{
   box-shadow: 12px 15px 6px 3px #b7b7a4;
 
 }
+
+/* creando animacion para el boton cominicate aqui */
+
+.boton{
+  
+  padding: 2rem;
+  
+  margin: 2rem;
+
+  background-color: #9eee9e;
+
+  color: #000;
+
+  text-decoration: none;
+  
+}
+
+.boton:hover{
+
+  animation: comunicate 4s;
+
+  color: #000;
+
+}
+
+@keyframes comunicate{
+  20%{
+
+    background-color: #b7b7a4;
+
+
+  }
+
+  35%{
+
+    width: 900px;
+
+    height: 900px;
+
+    transform: translate(10px, 10px);
+    
+    box-shadow: 12px 15px 6px 3px #161615;
+
+   
+    
+
+  }
+
+  100%{
+
+    width: 0px;
+
+  }
+
+
+}
+
+
+
+
 
 
 /* modificacion del  mmmdmdmd */
