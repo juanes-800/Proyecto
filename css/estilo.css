@@ -486,7 +486,7 @@ nav ul li a img{
   transform: scale(2);
 }
 
-/*  se realiza transiciones para las redes sociales  */
+/*  se realiza transformaciones para las redes sociales  */
 nav ul li a img:hover{
 
   transform: translateX(15px);
@@ -517,7 +517,7 @@ nav ul li a img:hover{
 
 }
 
-/* creando animacion para el boton cominicate aqui */
+/* creando animacion para el boton comunicate aqui */
 
 .boton{
   
