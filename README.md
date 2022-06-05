@@ -1,1 +1,1 @@
-# Proyecto se realiza correcciones de los difrentes html con miras a dejar con este contenido
+# Proyecto: se realiza correcciones de los diferentes html con miras a dejar con tipo de contenido contenido
