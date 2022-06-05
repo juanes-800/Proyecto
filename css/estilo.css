@@ -665,7 +665,7 @@ nav ul li a img:hover{
 
 /* aplicando medias queries */
 
-/* web index */
+/*  se aplica a todas las web */
 @media screen and (max-width: 600px){
 
 
@@ -718,13 +718,20 @@ nav ul li a img:hover{
   }
 
 
+    
+    
+  
+}
 
-  body{
-    background-color:red
+/* se aplica al nav para dejarlo completamente responsive */
+
+@media screen and (max-width: 840px){
+  .caja-ul{
+
+    display: inline-block;
     
   }
 }
-
 
 
 
